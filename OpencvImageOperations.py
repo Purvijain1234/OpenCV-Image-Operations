@@ -32,8 +32,8 @@ def to_grayscale(image):
 
 # ---------MAIN PROGRAM---------
 
-path = r"Phase 1\Image1.png" # path to the image
-image = cv2.imread(r"Phase 1\Image1.png") # read the image
+path = r"Phase 1\Image.png" # path to the image
+image = cv2.imread(r"Phase 1\Image.png") # read the image
 
 choose = int(input(
         "Choose an option:\n"
@@ -58,3 +58,4 @@ elif choose == 5:
     gray_image = to_grayscale(image)
 else:
     print("Invalid Option")
+
