@@ -35,31 +35,13 @@ Choose an option:
 3. Save Image
 4. Image Dimensions
 5. Convert to Grayscale
-Example:
-
-Option 2 → Displays the original image in a window.
-
-Option 3 → Saves the image as saved_image.png.
-
-Option 5 → Converts and saves the image as gray_image.png.
-
----
-
-### 📸 Example Output
-Original Image → Displayed in a new window.
-
-Saved Image → saved_image.png.
-
-Grayscale Image → gray_image.png.
 
 ---
 
 ### 🛠 Requirements
-Python 3.7+
-
-OpenCV
-
-You can install OpenCV manually:
+- Python 3.7+
+- OpenCV
+- You can install OpenCV manually:
 pip install opencv-python
 
 ---
