@@ -20,7 +20,7 @@ opencv-image-operations/
 
 │── OpencvImageOperation.py # Main script
 
-│── Image1.png # Sample image (add your own)
+│── Image.png # Sample image (add your own)
 
 │── README.md
 
@@ -43,12 +43,16 @@ Option 3 → Saves the image as saved_image.png.
 
 Option 5 → Converts and saves the image as gray_image.png.
 
+---
+
 ### 📸 Example Output
 Original Image → Displayed in a new window.
 
 Saved Image → saved_image.png.
 
 Grayscale Image → gray_image.png.
+
+---
 
 ### 🛠 Requirements
 Python 3.7+
@@ -58,8 +62,12 @@ OpenCV
 You can install OpenCV manually:
 pip install opencv-python
 
+---
+
 ### 📄 License
 This project is licensed under the MIT License – feel free to use, modify, and share.
+
+---
 
 ### 💡 Author
 Created with ❤️ by Purvi Jain
