@@ -17,8 +17,11 @@ This project is great for anyone starting with computer vision and Python. It co
 
 ## 📂 Project Structure
 opencv-image-operations/
+
 │── OpencvImageOperation.py # Main script
+
 │── Image1.png # Sample image (add your own)
+
 │── README.md
 
 ---
@@ -33,6 +36,7 @@ Choose an option:
 4. Image Dimensions
 5. Convert to Grayscale
 Example:
+
 Option 2 → Displays the original image in a window.
 
 Option 3 → Saves the image as saved_image.png.
@@ -60,6 +64,3 @@ This project is licensed under the MIT License – feel free to use, modify, and
 ### 💡 Author
 Created with ❤️ by Purvi Jain
 
----
-
-Would you like me to also create a **nice GitHub repo description & tags** (so your repo looks 
